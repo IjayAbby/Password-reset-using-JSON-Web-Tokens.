@@ -1,0 +1,30 @@
+{
+  "name": "passwordreset",
+  "version": "1.0.0",
+  "description": "Creating secure password resets with JSON Web Tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IjayAbby/Password-reset-using-JSON-Web-Tokens..git"
+  },
+  "keywords": [
+    "Email",
+    "JSON",
+    "jwt",
+    "password"
+  ],
+  "author": "Ijay Abby.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IjayAbby/Password-reset-using-JSON-Web-Tokens./issues"
+  },
+  "homepage": "https://github.com/IjayAbby/Password-reset-using-JSON-Web-Tokens.#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6"
+  }
+}
